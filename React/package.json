@@ -1,0 +1,20 @@
+{
+  "name": "react-brow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
